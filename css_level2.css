@@ -1,0 +1,35 @@
+td{
+  background-color: black;
+  height:300px;
+  width:150px;
+  margin: auto;
+  border: 5px solid white;
+}
+.you{
+  margin: auto;
+}
+h1{
+  text-align: center;
+  font-family: 'Lobster', cursive;
+}
+#one{
+  background-color: #cf0819;
+}
+#two{
+  background-color: #1261e0;
+}
+#three{
+  background-color: #9a13bf;
+}
+#four{
+  background-color: #bfb113;
+}
+#five{
+  background-color: #08cf51;
+}
+
+h3{
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  background-color:#0c0cf5
+}

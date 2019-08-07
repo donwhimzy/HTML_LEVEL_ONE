@@ -1,0 +1,14 @@
+body{
+  margin: auto;
+  text-align: center;
+  background-color: blue;
+  color: white;
+  font-family: sans-serif;
+  border:40px solid green;
+  border-top: 0px;
+}
+
+
+p{
+  text-align: center;
+}
